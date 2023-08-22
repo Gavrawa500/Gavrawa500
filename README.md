@@ -1,4 +1,4 @@
-![MasterHead]([file:///C:/Users/HP/Downloads/WhatsApp-Image-2023-08-22-at-13.32.16.webp](https://servreality.com/wp-content/uploads/2020/07/Java-Development-Banner.jpg))
+![MasterHead](https://marketplace.canva.com/EAFJ60abXWU/1/0/1600w/canva-navy-geometric-technology-linkedin-banner-rmGTXmkiFWI.jpg)
 
 <h1 align="center">Hey Everyone, I'm Gavrawa Thilakshana</h1>
 <h3 align="center">I am a backend developer.I love programming,writing,speaking and traveling</h3>
