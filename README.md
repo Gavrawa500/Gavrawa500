@@ -1,4 +1,4 @@
-![MasterHead](file:///C:/Users/HP/Downloads/WhatsApp-Image-2023-08-22-at-15.06.55.svg)
+![MasterHead](file:///C:/Users/HP/Downloads/WhatsApp-Image-2023-08-22-at-15.06.55.webp)
 
 <h1 align="center">Hey Everyone, I'm Gavrawa Thilakshana</h1>
 <h3 align="center">I am a backend developer.I love programming,writing,speaking and traveling</h3>
