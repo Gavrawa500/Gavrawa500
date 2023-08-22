@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1651780522995/zZbL8WM2v.gif)
+![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1651780522995/zZbL8WM2v.gif)
 
 <h1 align="center">Hey Everyone, I'm Gavrawa Thilakshana</h1>
 <h3 align="center">I am a backend developer.I love programming,writing,speaking and traveling</h3>
