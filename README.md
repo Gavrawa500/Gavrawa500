@@ -1,4 +1,4 @@
-![MasterHead](file:///C:/Users/HP/Downloads/example-1.webp)
+![MasterHead]([file:///C:/Users/HP/Downloads/example-1.webp](https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-1.png))
 
 <h1 align="center">Hey Everyone, I'm Gavrawa Thilakshana</h1>
 <h3 align="center">I am a backend developer.I love programming,writing,speaking and traveling</h3>
