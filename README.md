@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey Everyone, I'm Gavrawa Thilakshana</h1>
 <h3 align="center">I am a backend developer.I love programming,writing,speaking and traveling</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnhaOhFd9TMW5VCku1VZGWj2Pr9sYCBWtUUg&usqp=CAU"/>
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mountain-ash.org%2Fbot-gif&psig=AOvVaw17xg__5EaUKeU0tU6Ry9jk&ust=1692774732787000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIi10Lbb74ADFQAAAAAdAAAAABBG"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gavrawa500&label=Profile%20views&color=0e75b6&style=flat" alt="gavrawa500" /> </p>
 
