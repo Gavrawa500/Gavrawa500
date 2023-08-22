@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey Everyone, I'm Gavrawa Thilakshana</h1>
 <h3 align="center">I am a backend developer.I love programming,writing,speaking and traveling</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/3848914-Programmer-Thomas/attachments/10055456?mode=media"/>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/A15H8E1VUh8AAAAC/github-cat.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gavrawa500&label=Profile%20views&color=0e75b6&style=flat" alt="gavrawa500" /> </p>
 
