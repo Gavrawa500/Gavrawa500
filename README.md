@@ -1,4 +1,4 @@
-![MasterHead](https://drive.google.com/file/d/1NzyNn0r3uUDeanGp2V4aHdB2dNibr1nH/view?usp=sharing)
+![MasterHead](file:///C:/Users/HP/Downloads/example-1.webp)
 
 <h1 align="center">Hey Everyone, I'm Gavrawa Thilakshana</h1>
 <h3 align="center">I am a backend developer.I love programming,writing,speaking and traveling</h3>
