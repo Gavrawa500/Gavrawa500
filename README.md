@@ -1,4 +1,4 @@
-![MasterHead](https://marketplace.canva.com/EAFJ60abXWU/1/0/1600w/canva-navy-geometric-technology-linkedin-banner-rmGTXmkiFWI.jpg)
+![MasterHead](https://drive.google.com/file/d/1CSQKbQ8vKwwSJlPLYCSZGfg0tDy0VNCX/view?usp=sharing)
 
 <h1 align="center">Hey Everyone, I'm Gavrawa Thilakshana</h1>
 <h3 align="center">I am a backend developer.I love programming,writing,speaking and traveling</h3>
